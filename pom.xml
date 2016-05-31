@@ -42,11 +42,11 @@
             <artifactId>glowkit</artifactId>
             <version>${bukkit.version}</version> <!-- Use https://github.com/GlowstonePlusPlus/Glowkit/tree/bukkit+glowkit -->
         </dependency>
-        <dependency>
-            <groupId>com.flowpowered</groupId>
-            <artifactId>flow-network</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
-        </dependency>
+		<dependency>
+			<groupId>com.flowpowered</groupId>
+			<artifactId>flow-network</artifactId>
+			<version>1.0.0</version>
+		</dependency>
         <dependency>
             <groupId>jline</groupId>
             <artifactId>jline</artifactId>
