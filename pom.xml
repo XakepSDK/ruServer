@@ -58,6 +58,12 @@
             <version>1.14.8</version>
             <scope>provided</scope>
         </dependency>
+		<!-- http://mvnrepository.com/artifact/io.netty/netty-all -->
+		<dependency>
+			<groupId>io.netty</groupId>
+			<artifactId>netty-all</artifactId>
+			<version>4.1.0.Final</version>
+		</dependency>
         <!-- Automatically downloaded by Glowstone++'s library manager
         <dependency>
             <groupId>org.xerial</groupId>
@@ -192,7 +198,7 @@
                     <archive>
                         <manifestEntries>
                             <Implementation-Title>${project.name}</Implementation-Title>
-                            <Implementation-Version>${project.version}-${describe}</Implementation-Version>
+                            <Implementation-Version>${project.version}</Implementation-Version>
                             <Specification-Version>${bukkit.version}</Specification-Version>
                         </manifestEntries>
                     </archive>
