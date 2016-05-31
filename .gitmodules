@@ -1,6 +1,3 @@
 [submodule "Glowkit"]
 	path = Glowkit
 	url = https://github.com/XakepSDK/Glowkit
-[submodule "network"]
-	path = network
-	url = https://github.com/XakepSDK/network
