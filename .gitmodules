@@ -1,7 +1,6 @@
 [submodule "Glowkit"]
 	path = Glowkit
-	url = https://github.com/GlowstonePlusPlus/Glowkit
-	branch = bukkit+glowkit
+	url = https://github.com/XakepSDK/Glowkit
 [submodule "network"]
 	path = network
-	url = https://github.com/GlowstonePlusPlus/network.git
+	url = https://github.com/XakepSDK/network
